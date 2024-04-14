@@ -1,0 +1,8 @@
+.elementor-158 .elementor-element.elementor-element-f95e144 .elementor-spacer-inner{height:160px;}.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-158 .elementor-element.elementor-element-5b3c04c:after{content:"0.66";}.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-post__meta-data span + span:before{content:"•";}.elementor-158 .elementor-element.elementor-element-5b3c04c{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-post__text{margin-top:20px;}.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-post__badge{right:0;}.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-post__card .elementor-post__badge{margin:20px;}@media(max-width:767px){.elementor-158 .elementor-element.elementor-element-5b3c04c .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-158 .elementor-element.elementor-element-5b3c04c:after{content:"0.5";}}/* Start custom CSS for posts, class: .elementor-element-5b3c04c *//* #### Mobile Phones Portrait #### */
+@media screen and (max-device-width: 360px) and (orientation: portrait){
+  /* some CSS here */
+  .entry-content {
+	word-wrap: break-word;
+	width: 148%;
+}
+}/* End custom CSS */
